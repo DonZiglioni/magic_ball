@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/magic_ball/static/css/main.fe85c649.css",
+    "main.js": "/magic_ball/static/js/main.e9e5e036.js",
+    "static/js/787.99e70144.chunk.js": "/magic_ball/static/js/787.99e70144.chunk.js",
+    "static/media/magicball.mov": "/magic_ball/static/media/magicball.d9629ff53b297e9cacbf.mov",
+    "static/media/smokeBall.mp4": "/magic_ball/static/media/smokeBall.c08225d3f0b6024806ad.mp4",
+    "index.html": "/magic_ball/index.html",
+    "main.fe85c649.css.map": "/magic_ball/static/css/main.fe85c649.css.map",
+    "main.e9e5e036.js.map": "/magic_ball/static/js/main.e9e5e036.js.map",
+    "787.99e70144.chunk.js.map": "/magic_ball/static/js/787.99e70144.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe85c649.css",
+    "static/js/main.e9e5e036.js"
+  ]
+}
