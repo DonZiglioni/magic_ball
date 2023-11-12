@@ -7,6 +7,8 @@ Ask the ball a question about the future...
 Click the ball to recieve the most, incredibly acurate
 reading of the future.
 
+https://donziglioni.github.io/magic_ball/
+
 ## How does it work?
 
 There are forces that come from "far-away" universe's
