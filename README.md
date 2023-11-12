@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# The Magic Ball
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Available Things to Do
 
-## Available Scripts
+Ask the ball a question about the future...
 
-In the project directory, you can run:
+Click the ball to recieve the most, incredibly acurate
+reading of the future.
 
-### `npm start`
+## How does it work?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+There are forces that come from "far-away" universe's
+from several different areas in space and time.  These 
+forces are watching you right now, and listening to your
+inner-desires.  However, they know more about your purpose
+in life than you do, so you must listen to them as well...
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This is not a "Magic 8 Ball"...
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+It is an online portal, blessed by Shamans, Priests, and 
+spiritual healers, as well as other non-spiritual blessings
+from several astrologists, scientists, and mathematicians
+from all over the world.
 
 ### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Use the portal inside of The Magic Ball to ask questions
+about the future of others.  Read their future's and
+harness the power you now have, to change the world.  
 
-### Deployment
+Be the fortune teller and psychic you've alway's aspired
+to be!  The Magic Ball can be used for business, profits,
+and prophecies! 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+A .05% karma-fee will be received by The Magic Mall for
+any business revenues you accrue using the portal for
+profit.  These will be automatically deducted upon all
+transactions without the need to sign up for anything!
 
-### `npm run build` fails to minify
+Don't worry about how.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+They know what's going on...
+...Remember??
+
